@@ -22,4 +22,4 @@ Controls:
 Required libraries: SDL2, SDL_ttf, math.h
 
 Uses the following fonts:
-    Arcade Classic (freeware for personal use)
+    PRESS START 2P (OFL (SIL Open Font License))
